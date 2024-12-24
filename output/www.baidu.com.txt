@@ -1,0 +1,6 @@
+[200][text/html][3.29kb] http://www.baidu.com/cache/
+[200][text/xml][159.00b] http://www.baidu.com/crossdomain.xml
+[200][text/html][4.55kb] http://www.baidu.com/error.html
+[200][image/x-icon][1.92kb] http://www.baidu.com/favicon.ico
+[200][text/html][561.00b] http://www.baidu.com/home.html
+[200][text/plain][232.00b] http://www.baidu.com/robots.txt
